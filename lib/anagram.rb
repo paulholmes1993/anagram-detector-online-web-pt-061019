@@ -11,4 +11,3 @@ def match(word_array)
     word.split("").sort == @word.split("").sort
   end
 end
-end
